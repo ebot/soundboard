@@ -9,30 +9,35 @@ Setup
 
 ### mpg123 ###
 
-* On Mac With Homebrew
-  '''bash
-  brew install mpg123
-  '''
-* On Linux
-  '''bash
-  sudo apt-get install mpg123
-  '''
-* On Win, download from http://mpg123.org/download.shtml
+On Mac With Homebrew
+
+'''bash
+brew install mpg123
+'''
+
+On Linux
+
+'''bash
+sudo apt-get install mpg123
+'''
+
+On Win, download from http://mpg123.org/download.shtml
 
 ### Ninja Block Client and Soundboard Module ###
 
 * Install the NinjaBlock Client
 * cd to ninja_modules
-* clone soundboard
+* clone soundboard from https://github.com/ebot/soundboard
 * cd ..
 * Start the NinjaBlock client
-  '''bash
-  node client.js
-  '''
+
+'''bash
+node client.js
+'''
 
 ### Notes ###
 
-YOu will note that I set the device id in device.js to 1002. I felt this
+You will note that I set the device id in device.js to 1002. I felt this
 was best suited to an audio switch. The default sandbox id 2000 was not
 showing up in the rules engine.
 
