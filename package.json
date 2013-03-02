@@ -1,0 +1,12 @@
+{
+  "name": "soundboard",
+  "version": "0.1.0",
+  "description": "Soundboard Device for Ninja Block.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Ed Botzum",
+  "license": "BSD"
+}
