@@ -42,8 +42,10 @@ You will note that I set the device id in device.js to 1002. I felt this
 was best suited to an audio switch. The default sandbox id 2000 was not
 showing up in the rules engine.
 
-See the full list of devices at https://docs.google.com/spreadsheet/pub?key=0AhOYdqk8wpKadDVETGRrN0t1Ynd0TU02S2hTdDVRY1E&single=true&gid=2&output=html. Reference the ninja blocks forums for mor info at
+Reference the ninja blocks forums for more info at
 http://forums.ninjablocks.com/index.php?p=/discussion/comment/2541#Comment_2541.
+
+See the full list of devices at https://docs.google.com/spreadsheet/pub?key=0AhOYdqk8wpKadDVETGRrN0t1Ynd0TU02S2hTdDVRY1E&single=true&gid=2&output=html. 
 
 Usage
 =======================
