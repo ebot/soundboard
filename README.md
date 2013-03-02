@@ -25,7 +25,8 @@ On Win, download from http://mpg123.org/download.shtml
 
 ### Ninja Block Client and Soundboard Module ###
 
-* Install the NinjaBlock Client
+* Install the [NinjaBlock Client](http://ninjablocks.com/blogs/how-to/7195176-hack-like-a-ninja-blocks-developer)
+* Instakk the ninja toolbelt - npm install -g ninja-toolbelt
 * cd to ninja_modules
 * clone soundboard from https://github.com/ebot/soundboard
 * cd ..
@@ -40,6 +41,9 @@ node client.js
 You will note that I set the device id in device.js to 1002. I felt this
 was best suited to an audio switch. The default sandbox id 2000 was not
 showing up in the rules engine.
+
+See the full list of devices at https://docs.google.com/spreadsheet/pub?key=0AhOYdqk8wpKadDVETGRrN0t1Ynd0TU02S2hTdDVRY1E&single=true&gid=2&output=html. Reference the ninja blocks forums for mor info at
+http://forums.ninjablocks.com/index.php?p=/discussion/comment/2541#Comment_2541.
 
 Usage
 =======================
