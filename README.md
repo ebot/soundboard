@@ -11,15 +11,15 @@ Setup
 
 On Mac With Homebrew
 
-'''bash
+```bash
 brew install mpg123
-'''
+```
 
 On Linux
 
-'''bash
+```bash
 sudo apt-get install mpg123
-'''
+```
 
 On Win, download from http://mpg123.org/download.shtml
 
@@ -31,9 +31,9 @@ On Win, download from http://mpg123.org/download.shtml
 * cd ..
 * Start the NinjaBlock client
 
-'''bash
+```bash
 node client.js
-'''
+```
 
 ### Notes ###
 
