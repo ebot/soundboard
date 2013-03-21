@@ -26,7 +26,7 @@ On Win, download from http://mpg123.org/download.shtml
 ### Ninja Block Client and Soundboard Module ###
 
 * Install the [NinjaBlock Client](http://ninjablocks.com/blogs/how-to/7195176-hack-like-a-ninja-blocks-developer)
-* Instakk the ninja toolbelt - npm install -g ninja-toolbelt
+* Install the ninja toolbelt - npm install -g ninja-toolbelt
 * cd to ninja_modules
 * clone soundboard from https://github.com/ebot/soundboard
 * cd ..
