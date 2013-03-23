@@ -38,6 +38,12 @@ node client.js
 
 ### Notes ###
 
+Rasberry Pi/Debian users be sure to include nodejs-dev or npm will fail for ninja client.
+
+```bash
+sudo apt-get install nodejs-dev
+```
+
 You will note that I set the device id in device.js to 1002. I felt this
 was best suited to an audio switch. The default sandbox id 2000 was not
 showing up in the rules engine.
