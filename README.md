@@ -44,6 +44,8 @@ Rasberry Pi/Debian users be sure to include nodejs-dev or npm will fail for ninj
 sudo apt-get install nodejs-dev
 ```
 
+I had a hell of a time getting audio set up, this blog post was very helpful - https://jeffskinnerbox.wordpress.com/2012/11/15/getting-audio-out-working-on-the-raspberry-pi/
+
 You will note that I set the device id in device.js to 1002. I felt this
 was best suited to an audio switch. The default sandbox id 2000 was not
 showing up in the rules engine.
